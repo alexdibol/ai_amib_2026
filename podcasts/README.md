@@ -13,6 +13,8 @@ The audio files are hosted on Google Drive because their size makes them unsuita
 | Lecture 3 · Part 1 | When the Organization Becomes a Variable | [Listen on Google Drive](https://drive.google.com/file/d/1Qh6VItQG1vg4VJ87UejnPqWFRYpb_LlR/view?usp=sharing) |
 | Lecture 3 · Part 2 | The Fortress and the AI Factory | [Listen on Google Drive](https://drive.google.com/file/d/1bx1uU9zI-z4dsxYQt_n-7n8ejT9dpBW_/view?usp=sharing) |
 
+All six [practical notebooks](../notebooks/readme.md) are available with direct Google Colab links. Use the recording for each part alongside its corresponding experiment.
+
 [Return to the programme](../README.md)
 
 Copyright © 2026 Alejandro Reynoso.
