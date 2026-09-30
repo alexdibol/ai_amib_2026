@@ -15,7 +15,7 @@ The core narrative requires no programming background. Practical notebooks provi
 ## Start here: from the speech to deeper understanding
 
 1. **Read the [speech](speech/Discurso_AMIB_DEFINITIVO.pdf).** This Spanish-language executive introduction explains the progression from analytical models to increasingly capable organisations and the responsibilities that accumulate along the way. Use the [accompanying visual presentation](speech/Infografias_AMIB_FINAL.pdf) to follow the argument.
-2. **Continue with the [handbook publication guide](handbook/README.md).** The handbook is the intended continuous written account of the six-part programme, connecting the concepts to institutional decisions. **The handbook file has not yet been uploaded to this repository.**
+2. **Read the [executive handbook (PDF)](handbook/The%20indispensible%20AI%20Handbook%20for%20CEO.pdf).** Its six chapters provide the continuous written account of the programme, connecting model capabilities, operating processes, agentic organisation, governance, adaptation and institutional strategy. The [chapter guide](handbook/README.md) maps each chapter to its teaching part and companion materials.
 3. **Explore each part through its infographic, deck and monograph.** The infographic provides the conceptual map; the deck supports presentation and discussion; the monograph develops the reasoning, examples and implications. All six infographics, [lecture decks](decks/readme.md) and monographs are available and linked below. The speech also has its own visual presentation.
 4. **Use the [Colab notebook guide](notebooks/readme.md) for practical exploration.** All six notebooks are available, with direct GitHub and “Open in Colab” links below. Each uses a synthetic financial case to make the mechanisms, controls and executive decisions observable. The notebook guide explains live API use and the optional offline teaching mode.
 5. **Listen to the [six supporting podcasts](podcasts/README.md) throughout the programme.** Each part has its own recording, linked below. Listen before reading for orientation, or afterwards to consolidate the ideas. The audio is hosted on Google Drive because the files are too large to host in this GitHub repository.
@@ -129,7 +129,7 @@ Start with the simplest architecture that serves the purpose. Greater autonomy r
 | --- | --- | --- |
 | Speech | [Read the speech](speech/Discurso_AMIB_DEFINITIVO.pdf) | Available; Spanish |
 | Speech visuals | [Open the visual presentation](speech/Infografias_AMIB_FINAL.pdf) | Available |
-| Handbook | [Publication guide](handbook/README.md) | Handbook file awaiting upload |
+| Handbook | [Read the executive handbook (PDF)](handbook/The%20indispensible%20AI%20Handbook%20for%20CEO.pdf) | Available; six chapters, lecture syntheses and resource register |
 | Infographics | [Browse all six](infographics/) | Available |
 | Monographs | [Browse all six](monographs/) | Available; English |
 | Lecture decks | [Six-part deck guide](decks/readme.md) | All six PDF decks available |

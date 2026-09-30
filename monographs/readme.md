@@ -28,6 +28,6 @@ The six monographs develop the reasoning, financial examples and executive impli
 
 The Lecture 2 monograph covers repeat Lecture 1 labels. This index follows the filenames, Lecture 2 running headers and subject matter.
 
-[Return to the programme](../README.md)
+[Read the executive handbook (PDF)](../handbook/The%20indispensible%20AI%20Handbook%20for%20CEO.pdf) · [Chapter and resource guide](../handbook/README.md) · [Return to the programme](../README.md)
 
 Copyright © 2026 Alejandro Reynoso. See the [MIT License](../LICENSE) and [AI assistance and author responsibility statement](../README.md#ai-assistance-and-author-responsibility).

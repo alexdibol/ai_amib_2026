@@ -7,7 +7,7 @@ The Spanish-language speech is the executive entry point to the programme. It tr
 
 ## Continue through the programme
 
-The speech provides the overall narrative. The [handbook publication guide](../handbook/README.md) identifies the intended continuous written account; the handbook file is still awaiting upload. All six [lecture decks](../decks/readme.md), [infographics](../infographics/readme.md), [monographs](../monographs/readme.md) and [Colab notebooks](../notebooks/readme.md) are available. The six [podcasts](../podcasts/README.md), hosted on Google Drive, support the corresponding teaching parts throughout the learning journey.
+The speech provides the overall narrative. The [executive handbook](../handbook/The%20indispensible%20AI%20Handbook%20for%20CEO.pdf) develops that narrative through six chapters, lecture syntheses and a final institutional design synthesis. All six [lecture decks](../decks/readme.md), [infographics](../infographics/readme.md), [monographs](../monographs/readme.md) and [Colab notebooks](../notebooks/readme.md) are available. The six [podcasts](../podcasts/README.md), hosted on Google Drive, support the corresponding teaching parts throughout the learning journey.
 
 The speech's visual presentation accompanies the conference address. The six lecture decks expand the three-lesson programme, with one deck for each part.
 

@@ -4,7 +4,7 @@ This folder is the listening guide for the six-part executive crash course **Wha
 
 **The recordings are hosted on Google Drive. This folder contains their links, not the audio files**, because the recordings are too large to host in this GitHub repository.
 
-Begin with the speech for the overall argument, then use the handbook and each part's infographics, [lecture decks](../decks/readme.md) and monographs to deepen your understanding. The podcasts support this learning journey throughout: listen for orientation before studying a part, or return to its recording to consolidate the ideas afterwards.
+Begin with the speech for the overall argument, then use the [handbook](../handbook/The%20indispensible%20AI%20Handbook%20for%20CEO.pdf) and each part's infographics, [lecture decks](../decks/readme.md) and monographs to deepen your understanding. The podcasts support this learning journey throughout: listen for orientation before studying a part, or return to its recording to consolidate the ideas afterwards.
 
 | Lesson / part | Topic | Podcast | Deck |
 | --- | --- | --- | --- |

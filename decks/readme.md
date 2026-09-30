@@ -52,4 +52,4 @@ The [speech visual presentation](../speech/Infografias_AMIB_FINAL.pdf) is availa
 
 [Monograph](../monographs/Lecture_3_Part_2_Monograph.pdf) · [Notebook](../notebooks/AI_Financial_Practitioners_Lecture3_Part2_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture3_Part2_Colab.ipynb) · [Infographic](../infographics/l3p2.png) · [Podcast](https://drive.google.com/file/d/1bx1uU9zI-z4dsxYQt_n-7n8ejT9dpBW_/view?usp=sharing)
 
-[Return to the programme](../README.md)
+[Read the executive handbook (PDF)](../handbook/The%20indispensible%20AI%20Handbook%20for%20CEO.pdf) · [Chapter and resource guide](../handbook/README.md) · [Return to the programme](../README.md)

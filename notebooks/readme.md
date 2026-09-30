@@ -77,6 +77,6 @@ Generate portfolio commentary, enforce an action boundary, test malicious reques
 
 The resource mapping, notebook structure and configured models were checked against the uploaded files. This documentation update does not certify live execution of the six notebooks.
 
-[Return to the programme](../README.md)
+[Read the executive handbook (PDF)](../handbook/The%20indispensible%20AI%20Handbook%20for%20CEO.pdf) · [Chapter and resource guide](../handbook/README.md) · [Return to the programme](../README.md)
 
 Copyright © 2026 Alejandro Reynoso. Released under the [MIT License](../LICENSE). AI assistance and author responsibility are described in the [programme guide](../README.md#ai-assistance-and-author-responsibility).

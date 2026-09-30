@@ -27,6 +27,6 @@ The six infographics provide a compact visual map of the programme. Use each wit
 [Deck](../decks/AI_Financial_Practitioners_Lecture3_Part2_REVISED.pdf) · [Monograph](../monographs/Lecture_3_Part_2_Monograph.pdf) · [Infographic](../infographics/l3p2.png) · [Notebook](../notebooks/AI_Financial_Practitioners_Lecture3_Part2_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture3_Part2_Colab.ipynb) · [Podcast](https://drive.google.com/file/d/1bx1uU9zI-z4dsxYQt_n-7n8ejT9dpBW_/view?usp=sharing)
 
 
-[Return to the programme](../README.md)
+[Read the executive handbook (PDF)](../handbook/The%20indispensible%20AI%20Handbook%20for%20CEO.pdf) · [Chapter and resource guide](../handbook/README.md) · [Return to the programme](../README.md)
 
 Copyright © 2026 Alejandro Reynoso. See the [MIT License](../LICENSE) and [AI assistance and author responsibility statement](../README.md#ai-assistance-and-author-responsibility).
