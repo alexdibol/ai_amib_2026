@@ -1,8 +1,10 @@
 # Podcasts — What a CEO Needs to Learn About AI
 
-One supporting podcast accompanies each part of the three-lesson programme. Use the recordings alongside the speech, handbook and detailed teaching materials to preview or revisit the concepts.
+This folder is the listening guide for the six-part executive crash course **What a CEO Needs to Learn About AI**. It provides a direct link to the supporting podcast for each of the programme's three lessons and two parts per lesson.
 
-The audio files are hosted on Google Drive because their size makes them unsuitable for hosting in this repository. These are the section-to-recording links supplied by Alejandro Reynoso; this index does not imply a transcript or listening review.
+**The recordings are hosted on Google Drive. This folder contains their links, not the audio files**, because the recordings are too large to host in this GitHub repository.
+
+Begin with the speech for the overall argument, then use the handbook and each part's infographics, decks and monographs to deepen your understanding. The podcasts support this learning journey throughout: listen for orientation before studying a part, or return to its recording to consolidate the ideas afterwards.
 
 | Lesson / part | Topic | Podcast |
 | --- | --- | --- |
@@ -13,7 +15,7 @@ The audio files are hosted on Google Drive because their size makes them unsuita
 | Lecture 3 · Part 1 | When the Organization Becomes a Variable | [Listen on Google Drive](https://drive.google.com/file/d/1Qh6VItQG1vg4VJ87UejnPqWFRYpb_LlR/view?usp=sharing) |
 | Lecture 3 · Part 2 | The Fortress and the AI Factory | [Listen on Google Drive](https://drive.google.com/file/d/1bx1uU9zI-z4dsxYQt_n-7n8ejT9dpBW_/view?usp=sharing) |
 
-All six [practical notebooks](../notebooks/readme.md) are available with direct Google Colab links. Use the recording for each part alongside its corresponding experiment.
+For practical exploration, the six [Colab notebooks](../notebooks/readme.md) demonstrate selected mechanisms from the programme. Each podcast supports its corresponding teaching part; it should not be read as a claim of a cell-by-cell notebook walkthrough.
 
 [Return to the programme](../README.md)
 
