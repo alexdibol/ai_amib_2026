@@ -4,7 +4,7 @@
 
 **Alejandro Reynoso · Three lessons · Six parts**
 
-*Lo que debe saber un CEO sobre IA*
+*What every CEO should know about AI*
 
 AI is becoming a business design decision: what should the company be able to do, what should it fund, what authority should it delegate, and what evidence should it demand? This programme gives CEOs, CFOs, CTOs, board members and senior executives the essential understanding to take command of their company's AI business plan without delay and without overlooking the issues that determine whether it will work.
 
