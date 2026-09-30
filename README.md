@@ -16,7 +16,7 @@ The core narrative requires no programming background. Practical notebooks provi
 
 1. **Read the [speech](speech/Discurso_AMIB_DEFINITIVO.pdf).** This Spanish-language executive introduction explains the progression from analytical models to increasingly capable organisations and the responsibilities that accumulate along the way. Use the [accompanying visual presentation](speech/Infografias_AMIB_FINAL.pdf) to follow the argument.
 2. **Continue with the [handbook publication guide](handbook/README.md).** The handbook is the intended continuous written account of the six-part programme, connecting the concepts to institutional decisions. **The handbook file has not yet been uploaded to this repository.**
-3. **Explore each part through its infographic, deck and monograph.** The infographic provides the conceptual map; the deck supports presentation and discussion; the monograph develops the reasoning, examples and implications. All six infographics and monographs are linked below. The [six-part decks](decks/) await upload; the speech's visual presentation is available now.
+3. **Explore each part through its infographic, deck and monograph.** The infographic provides the conceptual map; the deck supports presentation and discussion; the monograph develops the reasoning, examples and implications. All six infographics, [lecture decks](decks/readme.md) and monographs are available and linked below. The speech also has its own visual presentation.
 4. **Use the [Colab notebook guide](notebooks/readme.md) for practical exploration.** All six notebooks are available, with direct GitHub and “Open in Colab” links below. Each uses a synthetic financial case to make the mechanisms, controls and executive decisions observable. The notebook guide explains live API use and the optional offline teaching mode.
 5. **Listen to the [six supporting podcasts](podcasts/README.md) throughout the programme.** Each part has its own recording, linked below. Listen before reading for orientation, or afterwards to consolidate the ideas. The audio is hosted on Google Drive because the files are too large to host in this GitHub repository.
 
@@ -38,7 +38,7 @@ Distinguish estimation, prediction, representation and generation; understand wh
 
 **Practical notebook — Corporate credit screening:** Separate a fitted default probability, exact financial calculations, institutional eligibility rules and a generated explanation.
 
-[Infographic](infographics/l1p1.png) · [Monograph](monographs/Lecture_1_Part_1_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1GPALc_xYcJh1J879TiosrNoNznoHOjro/view?usp=sharing) · [Deck status](decks/readme.md#lecture-1-part-1) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture1_Part1_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture1_Part1_Colab.ipynb)
+[Infographic](infographics/l1p1.png) · [Monograph](monographs/Lecture_1_Part_1_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1GPALc_xYcJh1J879TiosrNoNznoHOjro/view?usp=sharing) · [Deck (PDF)](decks/AI_Financial_Practitioners_Lecture1_Part1_REVISED.pdf) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture1_Part1_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture1_Part1_Colab.ipynb)
 
 #### Part 2 — From Intelligence to a Governed Operating System
 
@@ -50,7 +50,7 @@ Connect perception, judgment, planning, execution and feedback. Preserve source 
 
 **Practical notebook — A governed credit-monitoring service:** Validate filing freshness and identity, calculate ratios, create an internal case, prevent duplicate actions and retain an evidence trail.
 
-[Infographic](infographics/l1p2.png) · [Monograph](monographs/Lecture_1_Part_2_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1r1lfCDN9pXwg81Et63GsKeyFdDkwpwGX/view?usp=sharing) · [Deck status](decks/readme.md#lecture-1-part-2) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture1_Part2_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture1_Part2_Colab.ipynb)
+[Infographic](infographics/l1p2.png) · [Monograph](monographs/Lecture_1_Part_2_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1r1lfCDN9pXwg81Et63GsKeyFdDkwpwGX/view?usp=sharing) · [Deck (PDF)](decks/AI_Financial_Practitioners_Lecture1_Part2_REVISED.pdf) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture1_Part2_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture1_Part2_Colab.ipynb)
 
 ### Lesson 2 — Agentic organisation and governance
 
@@ -66,7 +66,7 @@ Separate models, tools, reusable skills, memory and agents. Allocate specialist 
 
 **Practical notebook — An investment memorandum with conflicting evidence:** Use a bounded tool-selection loop to retrieve an amendment, challenge the initial draft and integrate the review without losing dissent.
 
-[Infographic](infographics/l2p1.png) · [Monograph](monographs/Lecture_2_Part_1_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1Jly-P7_0DzNYM5N5JhfnhVtfrouRCh2B/view?usp=sharing) · [Deck status](decks/readme.md#lecture-2-part-1) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture2_Part1_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture2_Part1_Colab.ipynb)
+[Infographic](infographics/l2p1.png) · [Monograph](monographs/Lecture_2_Part_1_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1Jly-P7_0DzNYM5N5JhfnhVtfrouRCh2B/view?usp=sharing) · [Deck (PDF)](decks/AI_Financial_Practitioners_Lecture2_Part1_REVISED.pdf) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture2_Part1_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture2_Part1_Colab.ipynb)
 
 #### Part 2 — Autonomy, Delegation and System Governance
 
@@ -78,7 +78,7 @@ Distinguish automation from discretion. Define mandates, permissions, limits, es
 
 **Practical notebook — An autonomous treasury liquidity desk:** Coordinate specialist assessments of a liquidity shock and compare Advice, Approval and Bounded Autonomy under the same institutional mandate.
 
-[Infographic](infographics/l2p2.png) · [Monograph](monographs/Lecture_2_Part_2_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1mpr-0d30KdqYPbep6JvcF1HF3CJTBRi9/view?usp=sharing) · [Deck status](decks/readme.md#lecture-2-part-2) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture2_Part2_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture2_Part2_Colab.ipynb)
+[Infographic](infographics/l2p2.png) · [Monograph](monographs/Lecture_2_Part_2_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1mpr-0d30KdqYPbep6JvcF1HF3CJTBRi9/view?usp=sharing) · [Deck (PDF)](decks/AI_Financial_Practitioners_Lecture2_Part2_REVISED.pdf) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture2_Part2_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture2_Part2_Colab.ipynb)
 
 ### Lesson 3 — Adaptation and institutional strategy
 
@@ -94,7 +94,7 @@ Examine operating and improvement loops, bounded adaptation, recursive improveme
 
 **Practical notebook — A specialist swarm with governed adaptation:** Propose a change to credit-review routing, test it against protected criteria and roll back when drift undermines the design.
 
-[Infographic](infographics/l3p1.png) · [Monograph](monographs/Lecture_3_Part_1_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1Qh6VItQG1vg4VJ87UejnPqWFRYpb_LlR/view?usp=sharing) · [Deck status](decks/readme.md#lecture-3-part-1) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture3_Part1_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture3_Part1_Colab.ipynb)
+[Infographic](infographics/l3p1.png) · [Monograph](monographs/Lecture_3_Part_1_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1Qh6VItQG1vg4VJ87UejnPqWFRYpb_LlR/view?usp=sharing) · [Deck (PDF)](decks/AI_Financial_Practitioners_Lecture3_Part1_REVISED.pdf) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture3_Part1_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture3_Part1_Colab.ipynb)
 
 #### Part 2 — The Fortress and the AI Factory
 
@@ -106,7 +106,7 @@ Integrate cybersecurity, controlled experimentation, staged deployment, vendor d
 
 **Practical notebook — The AI Factory, Fortress and business case:** Generate portfolio commentary, enforce an action boundary, test malicious requests, calculate the cost of accepted work and assess readiness for a pilot.
 
-[Infographic](infographics/l3p2.png) · [Monograph](monographs/Lecture_3_Part_2_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1bx1uU9zI-z4dsxYQt_n-7n8ejT9dpBW_/view?usp=sharing) · [Deck status](decks/readme.md#lecture-3-part-2) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture3_Part2_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture3_Part2_Colab.ipynb)
+[Infographic](infographics/l3p2.png) · [Monograph](monographs/Lecture_3_Part_2_Monograph.pdf) · [Podcast](https://drive.google.com/file/d/1bx1uU9zI-z4dsxYQt_n-7n8ejT9dpBW_/view?usp=sharing) · [Deck (PDF)](decks/AI_Financial_Practitioners_Lecture3_Part2_REVISED.pdf) · [Notebook](notebooks/AI_Financial_Practitioners_Lecture3_Part2_Colab.ipynb) · [Open in Colab](https://colab.research.google.com/github/alexdibol/ai_amib_2026/blob/main/notebooks/AI_Financial_Practitioners_Lecture3_Part2_Colab.ipynb)
 
 ## Put the course to work: the AI business plan
 
@@ -132,7 +132,7 @@ Start with the simplest architecture that serves the purpose. Greater autonomy r
 | Handbook | [Publication guide](handbook/README.md) | Handbook file awaiting upload |
 | Infographics | [Browse all six](infographics/) | Available |
 | Monographs | [Browse all six](monographs/) | Available; English |
-| Lecture decks | [Six-part deck guide](decks/readme.md) | Deck files awaiting upload |
+| Lecture decks | [Six-part deck guide](decks/readme.md) | All six PDF decks available |
 | Colab notebooks | [Six-part notebook guide](notebooks/readme.md) | All six available; GitHub and Google Colab links |
 | Podcasts | [Six-part listening guide](podcasts/README.md) | External Google Drive links supplied by the author |
 
